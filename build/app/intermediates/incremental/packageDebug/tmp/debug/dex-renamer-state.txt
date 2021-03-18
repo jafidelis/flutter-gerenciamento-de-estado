@@ -1,4 +1,4 @@
-#Mon May 04 10:30:50 BRT 2020
-base.0=/home/juliana/dev/Alura/projetos/flutter-estados/build/app/intermediates/transforms/dexMerger/debug/0
+#Wed Mar 17 17:53:35 BRT 2021
+base.0=C\:\\Users\\jafid\\Work\\labs\\estudo\\flutter\\flutter-gerenciamento-de-estado\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
